@@ -6,7 +6,6 @@ const lastName = "Lovelace";
 // Only change code below this line
 const lastLetterOfLastName = lastName; // Change this line
 */
- */
 // ✔️SOLUTION:
 // Setup
 const lastName = "Lovelace";
